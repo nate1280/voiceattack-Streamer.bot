@@ -6,6 +6,8 @@ This VoiceAttack plugin allows for the running of actions in Streamer.bot
 
 Using UDP communications, you can have VoiceAttack, by way of this plugin, send an action request to Streamer.bot to do an action.
 
+**Be sure to goto [Releases](https://github.com/nate1280/voiceattack-Streamer.bot/releases) to download the zip file**
+
 ## Usage
 * Create your command
 * Add a `Set text value` under `Other` -> `Advanced`
